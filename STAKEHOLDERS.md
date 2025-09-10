@@ -13,7 +13,7 @@ Fyrir hvern notendahóp skal skrá:
 1. **Vottunaraðilar fyrir grænum lausnum #1** 
     Votta mötuneyti og veitingahús fyrir grænum og sjálfbærum lausnum. Aðilar hafa 
 væntingar um að ný lausn muni minnka matarsóun. 
-2. ** Endurskoðendur ** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
+2. **Endurskoðendur** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
  magni og virði birgða 
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
@@ -33,23 +33,27 @@ hagnaðar af innleiðingu kerfisins.
 
 ## Notendahópar
 
-### 1. [Heiti hóps]
-- **Staða:** [ ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** [Ferlar, hlutverk, markmið]
+### 1. Viðskiptavinir mötuneytis innan fyrirtækisins
+- **Staða:** [ x ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~250 notendur á dag
+- **Lýsing:** [Ferlar, hlutverk, markmið] pöntunar, afhendingar og greiðsluferli. Notandi pantar mat af matseðli daginn áður eða 
+- samdægurs og fær hann afhentan. Kostnaður er dreginn af launum. Hlutverk notenda er að velja af matseðli og skoða stöðu
+pöntunar. Hann þarf ekki að staðfesta móttöku. Markmið notandans er að fá meira úrval á matseðilinn, hraðari afgreiðslu og e.t.v. 
+skjótari afhendingu. 
 
-### 2. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 2. Aðrir utan fyrirtækisins 
+- **Staða:** [ ] Forgangs   [x ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~10 notendur á ári 
+- **Lýsing:** Notendur sem vinna ekki hjá fyrirtækinu reyna að brjótast inn í kerfið og lama það. 
 
-### 3. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+### 3. Launadeildin 
+- **Staða:** [ ] Forgangs   [  ] Óæskilegir  [ ] Aðrir  [ x ] Óbeinn  
+- **Stærð:** ~2 starfsmenn hjá launadeild 
+- **Lýsing:** Kostnaðarfærslur fyrir mat dragast frá launum starfsmanns. Einstaka sinnum gæti starfsmaður tilkynnt
+um rangar færslur við launadeild sem þarf þá að vísa til mötuneytis sem sendir leiðréttingafærslu. 
 
-### 4. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
+### 4. Sendlar 
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ x ] Aðrir [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
 
