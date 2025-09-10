@@ -11,21 +11,25 @@ Fyrir hvern notendahóp skal skrá:
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
 1. **Vottunaraðilar fyrir grænum lausnum #1** 
-    – Votta mötuneyti og veitingahús fyrir grænum og sjálfbærum lausnum. Hafa
-       væntingar um að ný lausn muni minnka matarsóun. 
+    Votta mötuneyti og veitingahús fyrir grænum og sjálfbærum lausnum. Aðilar hafa 
+væntingar um að ný lausn muni minnka matarsóun. 
 2. ** Endurskoðendur ** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
-   magni og virði birgða 
+ magni og virði birgða 
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **Nytsemissérfræðingar #1** – Setja upp nytsemisprófanir í nytsemistilraunastofu eftir að fyrsta útgáfa hefur verið gefin út. 
+1. **Nytsemissérfræðingar #1** – 
+Setja upp nytsemisprófanir í nytsemistilraunastofu eftir að fyrsta útgáfa hefur verið gefin út. 
 --Benda á það sem betur má fara í samskiptum notenda og kerfis, gagnvirkni til að auka ánægju og skilvirkni í lausn verkefna. Benda á 
 --vandamál í gagnvirkni. Koma hugsanlega með tillögur að úrbótum. 
 2. **Mannauðsdeild #2** – Rýnir notendakröfur og gætir að hagsmunum starfsfólks og fyrirtækis. Hvetur til krafna sem auka þjónustu og ánægju starfsfólk
 -- sem aftur gæti gert störf hjá fyrirtækinu meira aðlaðandi 
 
 ## Viðskiptavinir (ekki notendur)
-1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
-2. **[Viðskiptavinategund #2]** – hlutverk og áhrif.
+1. **Framkvæmdastjórar veitingahúsa #1** Þróa þarf lágmarks tengibúnað við eigið pöntunarkerfi og innleiða svo hægt sé að taka við pöntunum frá 
+starfsfólki. Mun leiða til aukinnar sölu veitingahúss. Þarf að huga að mönnun í eldhúsi og afhendingu við fjölgun pantana
+
+2. **Fyrirtækið sem rekur mötuneytið fyrir starfsfólk #2** Kaupandi kerfisins segir til um hvaða kröfur eru þróaðar. Nýtur
+hagnaðar af innleiðingu kerfisins. 
 
 ## Notendahópar
 
