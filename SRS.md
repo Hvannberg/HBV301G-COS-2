@@ -1,17 +1,23 @@
 # Software Requirements Specification (útgáfa fyrir verkefni 2)
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 0, Ebba Þóra Hvannberg
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Pöntunarkerfi fyrir mötuneyti - Cafeteria Ordering System
 
 ## 1. Inngangur
 
 ### 1.1 Gildissvið (Scope)
-Stutt lýsing á vörunni og helstu markmiðum.
+Pöntunarkerfið gerir starfsfólki fyrirtækis kleyft að panta mat úr mötuneyti og
+fá hann afhentan. Seinna mun kerfið þróast yfir í að geta pantað mat frá veitingastöðum.
+Notendur eru starfsmenn fyrirtækis, sendlar, matráðar / kokkar og annað starfsfólk mötuneytisins
+
+Meginmarkmið kerfisins er að með nýjum sjálfvirkum ferlum megi geri pantanir skilvirkari (hraðvirkari og með minni mannafla),
+og villufrírri. Markmið kerfisins er að draga úr sóun birgða. Markmið kerfisins er að veita notendum þjónustu til að panta 24/7 í staðinn fyrir frá 8-16
 
 ### 1.2 Tilvísanir
 - IEEE 29148 staðall
+- Sjá einnig HBV301G-COS 
 - COS Vision & Scope (fyrirmynd) eða aðrar fyrirmyndir sem þið notið
 
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
