@@ -10,12 +10,18 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Utan stofnunar #1]** – hlutverk og væntingar.
-2. **[Utan stofnunar #2]** – hlutverk og væntingar.
+1. **Vottunaraðilar fyrir grænum lausnum #1** 
+    – Votta mötuneyti og veitingahús fyrir grænum og sjálfbærum lausnum. Hafa
+       væntingar um að ný lausn muni minnka matarsóun. 
+2. ** Endurskoðendur ** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
+   magni og virði birgða 
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
-2. **[Innan stofnunar  #2]** – hlutverk og áhrif á verkefnið.
+1. **Nytsemissérfræðingar #1** – Setja upp nytsemisprófanir í nytsemistilraunastofu eftir að fyrsta útgáfa hefur verið gefin út. 
+--Benda á það sem betur má fara í samskiptum notenda og kerfis, gagnvirkni til að auka ánægju og skilvirkni í lausn verkefna. Benda á 
+--vandamál í gagnvirkni. Koma hugsanlega með tillögur að úrbótum. 
+2. **Mannauðsdeild #2** – Rýnir notendakröfur og gætir að hagsmunum starfsfólks og fyrirtækis. Hvetur til krafna sem auka þjónustu og ánægju starfsfólk
+-- sem aftur gæti gert störf hjá fyrirtækinu meira aðlaðandi 
 
 ## Viðskiptavinir (ekki notendur)
 1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
