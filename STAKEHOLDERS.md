@@ -33,10 +33,10 @@ hagnaðar af innleiðingu kerfisins.
 
 ## Notendahópar
 
-### 1. Viðskiptavinir mötuneytis innan fyrirtækisins
+### 1. Starfsmenn fyrirtækis sem kaupa mat í mötuneyty,  innan fyrirtækisins
 - **Staða:** [ x ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~250 notendur á dag
-- **Lýsing:** [Ferlar, hlutverk, markmið] pöntunar, afhendingar og greiðsluferli. Notandi pantar mat af matseðli daginn áður eða 
+- **Lýsing:** [Ferlar, hlutverk, markmið] pöntunar, afhendingar og greiðsluferli. Starfsmaður pantar mat af matseðli daginn áður eða 
 - samdægurs og fær hann afhentan. Kostnaður er dreginn af launum. Hlutverk notenda er að velja af matseðli og skoða stöðu
 pöntunar. Hann þarf ekki að staðfesta móttöku. Markmið notandans er að fá meira úrval á matseðilinn, hraðari afgreiðslu og e.t.v. 
 skjótari afhendingu. 
@@ -87,4 +87,9 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
+
+Nafn: Guðrún 
+Notendahópur: 
+Starf/hlutverk:
+Lýsing:
 
