@@ -54,8 +54,11 @@ um rangar færslur við launadeild sem þarf þá að vísa til mötuneytis sem 
 
 ### 4. Sendlar 
 - **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ x ] Aðrir [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+- **Stærð:** ~2 
+- **Lýsing:** Sendlar skoða í kerfinu hvaða pantanir bíða afhendingu á næsta korteri á þeirra afhendingasvæði ogklukkustund.
+Pantanir eru merktar nafni viðtakenda (starfsmanns), tíma og heimilisfangi / deild. Þar sem kröfur frá þeim 
+eru ekki margar fara þessir notendur ekki í forgangsflokk. Ákveðið var að þeir fengju upplýsingar úr kerfinu
+um pantanir sem bíða. Sendlar þurfa ekki að fá staðfestingu móttöku frá viðtakenda. 
 
 ## Persona fyrir Forgangs  notendahóp
 <!--
@@ -84,7 +87,4 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
-- **Nafn:**
-- **Notendahópur:**
-- **Starf/hlutverk:**
-- **Lýsing:**
+
