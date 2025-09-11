@@ -87,4 +87,14 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
+Nafn: Guðrún 
+Notendahópur: 1. Starfsmenn 
+Starf/hlutverk: Grafískur hönnuður í auglýsngadeild 
+Lýsing: Guðrún er 25 ára. Hún hefur unnið hjá fyrirtækinu í 1 ár og líkar vel. Hún er Grafískur hönnuður frá LHÍ. 
+Hún er á leigumarkaði en er að spara sér fyrir íbúð. Hún fer í mötuneytið þrisvar í viku en tekur
+með sér nesti tvisvar í viku. Henni finnst gott að borða í mötuneytinu með félögunum einstaka sinnum en oftast borðar 
+hún á lítilli kaffistofu í deildinni. Guðrúnu líst vel á að fá matinn sendann á deildina. Þá þarf hún ekki
+að fara á milli húsa í mötuneytið. Guðrún hefur oft mikið að gera og má ekki vera að því að taka langt hádegishlé. Hún sér ekki fyrir sér að panta mat frá veitingastað því það er svo miklu dýrara.
+Starf grafísks hönnuðar er þannig að það liggur oftast mikið á að koma auglýsingum í birtingu. Guðrún vill borða hollan mat 
+og hlakkar til að mötuneytið muni bjóða upp á meira úrval. 
 
