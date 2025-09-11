@@ -26,7 +26,7 @@ Setja upp nytsemisprófanir í nytsemistilraunastofu eftir að fyrsta útgáfa h
 
 ## Viðskiptavinir (ekki notendur)
 1. **Framkvæmdastjórar veitingahúsa #1** Þróa þarf lágmarks tengibúnað við eigið pöntunarkerfi og innleiða svo hægt sé að taka við pöntunum frá 
-starfsfólki. Mun leiða til aukinnar sölu veitingahúss. Þarf að huga að mönnun í eldhúsi og afhendingu við fjölgun pantana
+starfsfólki. Veitingahús kaupa aðgang að pöntunarkerfinu. Mun leiða til aukinnar sölu veitingahúss. Þarf að huga að mönnun í eldhúsi og afhendingu við fjölgun pantana
 
 2. **Fyrirtækið sem rekur mötuneytið fyrir starfsfólk #2** Kaupandi kerfisins segir til um hvaða kröfur eru þróaðar. Nýtur
 hagnaðar af innleiðingu kerfisins. 
