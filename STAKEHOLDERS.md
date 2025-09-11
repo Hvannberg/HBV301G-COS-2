@@ -54,7 +54,7 @@ um rangar færslur við launadeild sem þarf þá að vísa til mötuneytis sem 
 
 ### 4. Sendlar 
 - **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ x ] Aðrir [ ] Óbeinn  
-- **Stærð:** ~2 
+- **Stærð:** ~3 
 - **Lýsing:** Sendlar skoða í kerfinu hvaða pantanir bíða afhendingu á næsta korteri á þeirra afhendingasvæði ogklukkustund.
 Pantanir eru merktar nafni viðtakenda (starfsmanns), tíma og heimilisfangi / deild. Þar sem kröfur frá þeim 
 eru ekki margar fara þessir notendur ekki í forgangsflokk. Ákveðið var að þeir fengju upplýsingar úr kerfinu
