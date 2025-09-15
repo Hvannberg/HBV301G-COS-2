@@ -33,7 +33,7 @@ hagnaðar af innleiðingu kerfisins.
 
 ## Notendahópar
 
-### 1. Starfsmenn fyrirtækis sem kaupa mat í mötuneyty,  innan fyrirtækisins
+### 1. Starfsmenn fyrirtækis sem kaupa mat í mötuneyti,  innan fyrirtækisins
 - **Staða:** [ x ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~250 notendur á dag
 - **Lýsing:** [Ferlar, hlutverk, markmið] pöntunar, afhendingar og greiðsluferli. Notandi pantar mat af matseðli daginn áður eða 
