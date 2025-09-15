@@ -54,11 +54,17 @@
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
-
+   - Átaksþáttur: Starfsfólk launadeildar eru fáliðuð og hafa ekki tíma til að taka þátt í kröfusöfnunarferlinu. Þau hafa mikla  
+   þekkingu á launakerfinu sem tekur við færslum og eru því mikilvægur þátttakandi í ferlinu. 
+   - Hagsmunaaðilar: Starfsfólk launadeildar, Viðskiptagreinandi, Stjórnendur  
+   - Lausn:  Stjórnendur segja að ekki þurfi marga fundi með starfsfólki launadeildar. Fundirnir verða skipulagðir
+   einni viku eftir mánaðarmót en á þeim tíma segir launadeild að það sé minnst álag. Fundir verða ekki á orlofstímum eða
+   ef forföll eru í launadeildinni. 
+   
 8. **Dæmi #8**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Forritarar forrita samkvæmt virkniskröfunum sem viðskiptagreinandi hefur skrifað. Forriturum finnst þeir þurfi oft að breyta þeim en vilja  
+   ekki viðhalda þeim. Vörustjóri og viðskiptagreinandi þurfa að rýna (review) breytingarnar.  Forriturum finnst það vera of mikil skriffinska og segja að enginn annar þurfi að vita af breytingunum
+   - Hagsmunaaðilar: Forritarar, Vörustjóri, Viðskiptagreinandi
+   - Lausn:  Stjórnendur skipar spretthóp um hvernig má styðja forritara í að viðhalda kröfum. Í hópnum eru forritari, prófari, viðskiptagreinandi og 
+   vörustjóri. Hugmyndir stjórnenda eru betri verkfæri fyrir uppfærslu á kröfum, fræðsla frá prófurum um mikilvægi krafna sem inntak í prófanir og 
+   aukið vægi á hlutverk vörustjóra sem tengiliður forritara og viðskiptagreinanda. 
