@@ -13,7 +13,7 @@ Fyrir hvern notendahóp skal skrá:
 1. **Vottunaraðilar fyrir grænum lausnum #1** 
     Votta mötuneyti og veitingahús fyrir grænum og sjálfbærum lausnum. Aðilar hafa 
 væntingar um að ný lausn muni minnka matarsóun. 
-2. **Endurskoðendur** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
+2. **Endurskoðendur #2** – Endurskoða mat á virði birgða mötuneytis fyrir skattframtal og ársreiknng. Með betri skráningu matarskammta má gera sér betur grein fyrir  
  magni og virði birgða 
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
