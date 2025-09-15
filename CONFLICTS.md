@@ -40,14 +40,17 @@
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur:   C1 [Oracle gagnagrunnur, #5](https://github.com/Hvannberg/HBV301G-COS/issues/5)  vs.  [Viðkvæm gögn skulu dulkóðuð með 256-bita dulritun #6](https://github.com/Hvannberg/HBV301G-COS/issues/6)
+   Hér þarf að gæta þess að útgáfan af Oracle gagnagrunnskerfið styðji dulkóðun með 256-bita dulritun. 
+   - Hagsmunaaðilar: Gagnagrunnsstjóri og persónuverndarstjóri þróunarteymisins   
+   - Lausn: Á hönnunarstigi skal gæta þess að þessar tvær kröfur stangist ekki á þannig að hægt sé að uppfylla báðar. Einnig skal gera lista af þeim gagnagrunnskerfum öðrum en Oracle sem eru á markaðnum og tilvonandi   
+   viðskiptavinir vilji mögulega nota. Setja þarf upp gátlista sem er notaður til að rýna útfærslu gagnagrunnsfyrirspurna m.t.t. þessara krafa.  
 
 6. **Dæmi #6**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur:  SR1  [Notendaviðmót kerfisins er á vef, snjallsíma og kiosk #9](https://github.com/Hvannberg/HBV301G-COS/issues/9) | vs.   QR3 [Notendur skulu skrá sig inn á COS til að framkvæma allar aðgerðir nema til að skoða matseðla #19](https://github.com/Hvannberg/HBV301G-COS/issues/19)
+   Er hægt að útfæra aðgang frá Kiosk með innskráningu í COS? eða rekast þessar kröfur á? Hvernig er farið með aðgang að COS frá ytra neti inn á innra net? 
+   - Hagsmunaaðilar: Starfsmenn sem panta mat frá mötuneyti í gegnum Kiosk t.d. í mötuneyti og öryggisstjóri viðskiptavinar.   
+   - Lausn:  Hér þarf að leyfa login á kiosk á auðveldan hátt t.d. með síma eða starfsmannakorti og gæta að því að notandi útskráist.  E.t.v. ætti að takmarka verkefni (tasks) á kiosk, t.d. matseðla eða athuga stöðu pantana.  
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
