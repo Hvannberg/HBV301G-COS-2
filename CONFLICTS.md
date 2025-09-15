@@ -22,14 +22,21 @@
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Krafa [#20] (https://github.com/Hvannberg/HBV301G-COS/issues/20) Sendlum finnst óþarfi að kerfið sé aðgengilegt á nóttunni þegar engar sendingar fara fram. Einnig finnst
+   þeim að starfsmenn geti pantað mat á milli 5 að morgni og miðnættis. Starfsmönnum sem vinna vaktavinnu vilja  geta pantað máltíðir á nóttunni þó svo að þeir fái ekki sendingar þá. Hér er því verið að 
+   þjónusta vaktavinnustarfsmenn án viðbótarkostnaðar við að bjóða upp á sendingar á nóttunni. 
+   - Hagsmunaaðilar: Starfsmenn sem panta mat úr mötuneyti (forgangsnotendur) og sendlar (ekki í forgangshópi)
+   - Lausn: Þar sem Starfsmenn eru í forgangshópi notenda en ekki sendlar þá stendur krafan eins og hún er. Hins vegar ætti að gera orðalagið nákvæmara og leggja áherslu á að hægt sé að  
+   panta 24/7 en afhendingar fari fram frá 5 til miðnættis. Einnig að viðhald á kerfinu fari fram á tímabilinu 12 og 5 á morgnana. Eins ef kerfið stöðvast þá er ekki þjónusta við það
+   á þessum tíma. 
 
 4. **Dæmi #4**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: Í þessari kröfu er aðeins tekið fram fjölda samtímanotenda [#18] (https://github.com/Hvannberg/HBV301G-COS/issues/18) en ekkert talað um hve margar pantanir sendlar eiga 
+   að afhenda í hverjum afhendingaglugga (sjá einnig viðskiptareglu [#3] (https://github.com/Hvannberg/HBV301G-COS/issues/3). Mötuneytisstarfsfólk bendir á að ekki sé tekið fram hversu mörgum máltíðum eldhúsið getur annað á kls. 
+   - Hagsmunaaðilar: Sendlar, Mötuneytisstarfsfólk (sjá [Notendahópa SRS] (https://github.com/Hvannberg/HBV301G-COS/blob/main/SRS.md))  
+   - Lausn: Þar sem mötuneytisstarfsfólk er í forgangshópi en sendlar ekki, þá verða sjónarmið mötuneytisstarfsfólk ofan á. Gætt verður að því að fjöldi sendla verði í takti við afköst eldhúss. 
+   Sett verður inn ný krafa (takmörkun - constraints) sem segir til um að takmarka þurfi pantanir til afhendingar
+   í takti við afköst eldhúss. Fjöldi leyfilegra pantana per afhendingaslot í kerfinu verður að endurspegla afköst eldhúss. 
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
