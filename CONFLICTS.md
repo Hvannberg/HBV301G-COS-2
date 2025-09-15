@@ -54,11 +54,14 @@
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
-
+   - Átaksþáttur: Starfsfólk launadeildar eru fáliðuð og hafa ekki tíma til að taka þátt í kröfusöfnunarferlinu. Þau hafa mikla  
+   þekkingu á launakerfinu sem tekur við færslum og eru því mikilvægur þátttakandi í ferlinu. 
+   - Hagsmunaaðilar: Starfsfólk launadeildar, Stjórnendur  
+   - Lausn:  Stjórnendur segja að ekki þurfi marga fundi með starfsfólki launadeildar. Fundirnir verða skipulagðir
+   einni viku eftir mánaðarmót en á þeim tíma segir launadeild að það sé minnst álag. Fundir verða ekki á orlofstímum eða
+   ef forföll eru í launadeildinni. 
+   
 8. **Dæmi #8**  
-   - Átaksþáttur: …  
+   - Átaksþáttur:  
    - Hagsmunaaðilar: …  
    - Lausn: …  
