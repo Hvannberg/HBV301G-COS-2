@@ -2,14 +2,23 @@
 
 ## Business Strategy Conflicts
 1. **Dæmi #1**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: [#2]  (https://github.com/Hvannberg/HBV301G-COS/issues/1)  
+   Starfsmenn hafa áhyggjur af því að með því að fá matinn inn í deild og þar með raunvinnutími aukist, glatist félagsleg
+   tengsl við aðra starfsmenn fyrirtækisins sem verða til í mötuneytinu sjálfu. Starfsmenn telja að það geti verið 
+   erfitt að mæla árangurinn því starfsmenn stimpla sig ekki inn og út úr mat. 
+   - Hagsmunaaðilar: Starfsmenn sem nota mötuneytið og Stjórnendur   
+   - Lausn: Stjórnendur útskýra að auka megi félagsleg tengsl með öðrum hætti, t.d. heimsóknir eða viðburðir á milli deilda sem tæki þá minni tíma.   
+   Stjórnendur munu  búast við því að raunvinnutími aukist yfir 12 mánuði en gerist ekki hratt. Stjórnendur munu  
+   uppfæra orðalag viðskiptakröfu til að gera hana mælanlegri. Raunvinnutími er mældur með því að
+   skoða gögn sem sýna viðveru starfsfólk á vinnustöð, t.d. með staðsetningu, gagnvirkni við verkfæri og/eða í dagbókum (fundir o.s.frv).
 
 2. **Dæmi #2**  
-   - Átaksþáttur: …  
-   - Hagsmunaaðilar: …  
-   - Lausn: …  
+   - Átaksþáttur: [#1] (https://github.com/Hvannberg/HBV301G-COS/issues/2) Kokkar segja að það verði óraunhæft að lækka kostnað vegna matarúrgangs um 40% 
+   og biðja um nánari leiðbeiningar um hvernig þetta má vera. Þau benda einnig á að neytendur í mötuneytinu beri einnig ábyrgð á þessu og að auka þurfi vitundarvakningu 
+   - Hagsmunaaðilar: Starfsmenn í framreiðslu í mötuneyti (kokkar) og Stjórnendur  
+   - Lausn: Stjórnendur munu vinna nánar að leiðbeiningum til eldhúss um hvernig væri hægt að uppfylla kröfuna. Aðalsparnaðurinn mun fást 
+   í fyrirsjáanleika matarskammta því starfsmenn panta matinn fyrirfram. Þau munu einnig
+     setja af stað fræðslu fyrir mötuneytis neytendur. 
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
