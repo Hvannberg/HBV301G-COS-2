@@ -4,6 +4,9 @@
 
 Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
 
+## Hér er verkefnið sem er tengd repo-inu 
+- [Project borð fyrir COS-2 repo-ið](https://github.com/users/Hvannberg/projects/9/views/1)
+## Hér eru skrárnar
 - **STAKEHOLDERS.md:** Flokkun hagsmunaaðila (utan/innan), viðskiptavinir (ekki notendur), notendahópar (4 stk) og persona.
 - **CONFLICTS.md:** Árekstrar (2× business strategy, 2× requirements value, 2× requirements substance, 2× requirements process).
 - **SRS.md:** Stutt útgáfa af Software Requirements Specification, aðeins það sem á við í þessu verkefni.
